@@ -9,26 +9,24 @@
  */
 class Solution {
 public:
-bool exists(TreeNode * root,TreeNode * target){
+bool isexists(TreeNode * root,TreeNode * target){
     if(root==NULL){
         return false ;
-
     }
     if(root==target){
-        return true;
+        return true ;
     }
-    return exists(root->right,target) || exists(root->left,target);
+    else return isexists(root->left,target) || isexists(root->right,target);
+
 }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+       
         if(root==p || root==q){
             return root ;
         }
-
-        if(exists(root->left,p) && exists(root->right,q))return root; 
-        if(exists(root->left,q)&&exists(root->right,p))return root ;
-        else if ( exists(root->left,p) && exists(root->left,q)) return lowestCommonAncestor(root->left,p,q);
-        else  return lowestCommonAncestor(root->right,p,q);
-
-
+        if(isexists(root->left,p) && isexists(root->right,q))return root ;
+        else if(isexists(root->left,q) && isexists(root->right,p))return root ;
+        else if (isexists(root->left,p) && isexists(root->left,q)) return lowestCommonAncestor(root->left,p,q);
+        else return lowestCommonAncestor(root->right,p,q);
     }
 };
