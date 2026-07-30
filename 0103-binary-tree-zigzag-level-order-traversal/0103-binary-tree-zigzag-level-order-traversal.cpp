@@ -11,43 +11,33 @@
  */
 class Solution {
 public:
-int level(TreeNode * root){
+int levels(TreeNode * root){
     if(root==NULL){
         return 0 ;
     }
-    return 1 + max(level(root->left),level(root->right));
+    return 1+ max(levels(root->left),levels(root->right));
 }
-void levelorder(TreeNode * root,int size , int n ,vector<int>&ans){
-    if(root==NULL){
-        return ;
-    }
-    if(size==n){
-        ans.push_back(root->val);
-        return ;
-    }
-    if(n%2==0){
-    levelorder(root->right,size+1,n,ans);
-    levelorder(root->left,size+1,n,ans);
-    }
-    else{
-        levelorder(root->left,size+1,n,ans);
-        levelorder(root->right,size+1,n,ans);
-    }
- 
+void traversal(TreeNode * root , vector<vector<int>> & ans ,  int level){
+if(root==NULL){
+    return ;
+}
+ans[level].push_back(root->val);
+traversal(root->left,ans,level+1);
+traversal(root->right,ans,level+1);
+
 }
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-         vector<vector<int>>ans ;
-        if(root==NULL){
-            return ans ;
-        }
-       
-        int n = level(root);
-        for(int i = 1 ; i<=n;i++){
+        int n = levels(root);
+        vector<vector<int>>ans ;
+        for(int i = 1 ; i<=n ; i++){
             vector<int>v ;
-            levelorder(root,1,i,v);
             ans.push_back(v);
-
         }
-        return ans ;
+        traversal(root,ans,0);
+        for (int i = 1; i < ans.size(); i += 2) {
+            reverse(ans[i].begin(), ans[i].end());
+        }
+return ans ;
+
     }
 };
