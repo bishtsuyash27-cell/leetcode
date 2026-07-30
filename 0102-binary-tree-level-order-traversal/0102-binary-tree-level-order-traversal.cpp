@@ -17,28 +17,23 @@ int levels(TreeNode * root){
     }
     return 1 + max(levels(root->left),levels(root->right));
 }
-void traversal(TreeNode * root,int size , int n , vector<int>&ans){
+void traversal(TreeNode * root , vector<vector<int>>& ans ,int level){
     if(root==NULL){
         return ;
     }
-    if(size==n){
-        ans.push_back(root->val);
-    }
-    traversal(root->left,size+1,n,ans);
-    traversal(root->right,size+1,n,ans);
-
+    ans[level].push_back(root->val);
+    traversal(root->left,ans,level+1);
+    traversal(root->right,ans,level+1);
 }
     vector<vector<int>> levelOrder(TreeNode* root) {
         int n = levels(root);
         vector<vector<int>>ans ;
-    
-        for(int i = 1 ; i<=n ; i++){
+        for(int i = 1 ; i<=n; i++){
             vector<int>v ;
-            traversal(root,1,i,v);
             ans.push_back(v);
-            
         }
-        return ans ;
 
+        traversal(root,ans,0);
+        return ans ;
     }
 };
