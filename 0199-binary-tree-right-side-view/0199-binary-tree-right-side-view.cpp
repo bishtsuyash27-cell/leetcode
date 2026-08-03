@@ -11,42 +11,36 @@
  */
 class Solution {
 public:
+int level(TreeNode * root){
+    if(root==NULL){
+        return 0 ;
+    }
+    return 1+ max(level(root->left),level(root->right));
+}
+void nthlevel(TreeNode * root,  int curr , int level,vector<int>&ans){
+    if(root==NULL){
+        return ;
+    }
+    if(curr==level){
+        ans[curr] = root->val;
+    }
+    nthlevel(root->left,curr+1,level,ans);
+    nthlevel(root->right,curr+1,level,ans);
+}
+void levelorder(TreeNode * root , vector<int>&ans){
+    int n = ans.size();
+    for(int i = 0 ; i<n; i++){
+        nthlevel(root,0,i,ans);
+    }
+}
     vector<int> rightSideView(TreeNode* root) {
-        queue<TreeNode*>q ;
-         vector<int>ans ;
-            if(root==NULL){
-                return ans ;
-            }
-        q.push(root);
-       
-        while(q.size()>0){
-            int size = q.size();
-            int level = 1 ;
-            
-            for(int i = 0 ; i<size;i++){
+        
+        int n = level(root);
 
-                TreeNode * temp = q.front();
+        vector<int>ans(n);
+        levelorder(root,ans);
+return ans ;
 
-                if(i==size-1){
-                      ans.push_back(temp->val);
-                }
-
-                q.pop();
-
-                if(temp->left!=NULL){
-                    q.push(temp->left);
-
-                }
-                if(temp->right!=NULL){
-                    q.push(temp->right);
-                }
-                
-              
-            }
-            
-            
-        }
-        return ans ;
 
     }
 };
