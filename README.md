@@ -17,6 +17,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0437-path-sum-iii) |
+| [0700-search-in-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0437-path-sum-iii) |
+| [0700-search-in-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -97,4 +99,8 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
