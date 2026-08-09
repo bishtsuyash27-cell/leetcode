@@ -11,27 +11,24 @@
  */
 class Solution {
 public:
-long long  maxtree(TreeNode * root){
+void  inorder(TreeNode * root,vector<int> &ans){
     if(root==NULL){
-        return LLONG_MIN;
-    }
-    return max((long long )root->val,max(maxtree(root->left),maxtree(root->right)));
-    
+        return ;
 }
-long long  mintree(TreeNode * root){
-    if(root==NULL){
-        return LLONG_MAX ;
-    }
-    return min((long long )root->val,min(mintree(root->left),mintree(root->right)));
+inorder(root->left,ans);
+ans.push_back(root->val);
+inorder(root->right,ans);
 }
     bool isValidBST(TreeNode* root) {
-        if(root==NULL){
-            return true ;
+        vector<int>ans ;
 
+     inorder(root,ans);
+
+     for(int i = 0 ; i<ans.size()-1; i++){
+        if(ans[i]>=ans[i+1]){
+            return false ;
         }
-        else if (root->val<=maxtree(root->left))return false ;
-        else if(root->val>=mintree(root->right))return false ;
-        
-        return  (isValidBST(root->left) && isValidBST(root->right));
+     }
+     return true ;
     }
 };
