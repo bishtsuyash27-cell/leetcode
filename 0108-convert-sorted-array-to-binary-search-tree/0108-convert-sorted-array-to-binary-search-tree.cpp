@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-TreeNode *  helper(int low , int high,vector<int>nums){
+TreeNode *  helper(int low , int high,vector<int> &nums){
     if(low>high){
         return NULL ;
     }
