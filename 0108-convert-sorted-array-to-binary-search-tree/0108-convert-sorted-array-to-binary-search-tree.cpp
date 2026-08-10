@@ -16,7 +16,7 @@ TreeNode *  helper(int low , int high,vector<int>nums){
         return NULL ;
     }
 
-    int mid = (low+high)/2 ;
+    int mid = low+(high-low)/2 ;
     TreeNode* root = new TreeNode(nums[mid]);
     root->left = helper(low,mid-1,nums);
     root->right = helper(mid+1,high,nums);
