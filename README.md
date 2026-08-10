@@ -21,6 +21,7 @@
 | [0437-path-sum-iii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0437-path-sum-iii) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0437-path-sum-iii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## String
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Lifting
 |  |
 | ------- |
