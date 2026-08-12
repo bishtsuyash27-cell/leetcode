@@ -11,31 +11,31 @@
  */
 class Solution {
 public:
-TreeNode * solve(vector<int>&preorder,vector<int>&inorder , int & preindex ,int start, int end){
-    if(start>end){
-        return NULL ;
-    }
-    TreeNode * root = new TreeNode(preorder[preindex]);
-    preindex++;
-    int mid = start ;
-
-    while(root->val!=inorder[mid]){
-        mid++;
+TreeNode *  insertNode(TreeNode * root ,  int val){
+    
+    if(root==NULL){
+        TreeNode * t = new TreeNode(val);
+        return t ;
 
     }
+    if(root->val>val){
+        root->left = insertNode(root->left,val);
+    }
 
-    root->left = solve(preorder,inorder,preindex,start,mid-1);
-    root->right = solve(preorder,inorder,preindex,mid+1,end);
+    if(root->val<val){
+        root->right = insertNode(root->right, val);
+    }
 
     return root ;
+    
 
 }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-         vector<int>inorder ;
-         inorder = preorder ;
-         int preindex = 0 ;
-         sort(inorder.begin(),inorder.end());
-         return solve(preorder,inorder,preindex,0,preorder.size()-1);
+        TreeNode * root = new TreeNode(preorder[0]);
 
+        for(int i = 1 ; i<preorder.size();i++){
+            insertNode(root,preorder[i]);
+        }
+        return root ;
     }
 };
