@@ -22,7 +22,7 @@ TreeNode *  insertNode(TreeNode * root ,  int val){
         root->left = insertNode(root->left,val);
     }
 
-    if(root->val<val){
+    else if (root->val<val){
         root->right = insertNode(root->right, val);
     }
 
