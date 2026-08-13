@@ -80,6 +80,7 @@
 | [0520-detect-capital](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0709-to-lower-case) |
 | [2129-capitalize-the-title](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2129-capitalize-the-title) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
