@@ -77,6 +77,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0709-to-lower-case) |
 | [2129-capitalize-the-title](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2129-capitalize-the-title) |
 ## Backtracking
