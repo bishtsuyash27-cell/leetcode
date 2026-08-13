@@ -75,6 +75,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0520-detect-capital) |
@@ -116,11 +117,13 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0242-valid-anagram](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0242-valid-anagram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
