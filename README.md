@@ -77,6 +77,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0344-reverse-string) |
@@ -112,6 +113,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0344-reverse-string) |
 ## Hash Table
