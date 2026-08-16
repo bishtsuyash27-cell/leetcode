@@ -22,6 +22,7 @@
 | [0437-path-sum-iii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -41,6 +42,7 @@
 | [0257-binary-tree-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
@@ -70,6 +72,7 @@
 | [0437-path-sum-iii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -143,6 +146,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
