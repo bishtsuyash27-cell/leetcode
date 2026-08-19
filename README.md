@@ -92,6 +92,7 @@
 | [0344-reverse-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0796-rotate-string) |
 | [2129-capitalize-the-title](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2129-capitalize-the-title) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Backtracking
@@ -180,4 +181,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
