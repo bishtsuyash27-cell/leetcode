@@ -1,19 +1,20 @@
 class Solution {
 public:
     bool rotateString(string s, string goal) {
-       string  c = s+s ;
-        bool flag = false ;
-
-        if(s.size()!=goal.size()){
+         if(s.size()!=goal.size()){
             return false ;
         }
+       s  = s+s ;
+        bool flag = false ;
+
+       
 
 
 
         for(int i = 0 ; i<goal.size();i++){
             int j = 0 ;
 
-            while(j<goal.size() && c[i+j]==goal[j]){
+            while(j<goal.size() && s[i+j]==goal[j]){
                 j++;
             }
             if(j==goal.size()){
