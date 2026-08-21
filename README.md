@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0257-binary-tree-paths) |
@@ -125,6 +126,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0344-reverse-string) |
@@ -191,4 +193,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
