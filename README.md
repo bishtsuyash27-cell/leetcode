@@ -129,6 +129,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0189-rotate-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
