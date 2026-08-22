@@ -11,29 +11,33 @@
  */
 class Solution {
 public:
-TreeNode * flat (TreeNode * root){
-      if(root==NULL){
-            return NULL;
+    void flatten(TreeNode* root) {
+        if(root==NULL){
+            return ;
+        }
+        TreeNode * curr = root ;
+        while(curr!=NULL){
+            if(curr->left!=NULL){
+                TreeNode * r = curr->right ;
+                curr->right = curr->left ;
+                TreeNode * pred = curr->left ;
+                while(pred->right!=NULL){
+                    pred = pred->right ;
+                }
+                
+                pred->right = r ;
+                curr = curr->left ;
+            }
+            else{
+                curr = curr->right ;
+            }
         }
 
-
-    TreeNode * l = flat(root->left);
-    TreeNode * r = flat(root->right);
-
-    root->right = l ;
-    root->left = NULL ;
-
-    TreeNode * temp = root;
-    while(temp->right!=NULL){
-        temp = temp->right ;
-    }
-    temp->right = r ;
-
-    return root ;
-}
-
-    void flatten(TreeNode* root) {
-      flat(root);
-      
+        TreeNode * temp = root ;
+        while(temp->right!=NULL){
+            temp->left = NULL ;
+            temp = temp->right ;
+        }
+        
     }
 };
