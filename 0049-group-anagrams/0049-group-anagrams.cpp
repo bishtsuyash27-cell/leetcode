@@ -1,36 +1,35 @@
 class Solution {
 public:
-    vector<vector<string>> groupAnagrams(vector<string>& strs) {
+    vector<vector<string>> groupAnagrams(vector<string>& word) {
 
-        vector<vector<string>> groups;
-        vector<string> keys;
+       
+    vector<vector<string>> ans ;
 
-        for (int i = 0; i < strs.size(); i++) {
+    vector<string>key ;
 
-            string sortedWord = strs[i];
-            sort(sortedWord.begin(), sortedWord.end());
 
-            bool found = false;
-
-            for (int j = 0; j < keys.size(); j++) {
-
-                if (keys[j] == sortedWord) {
-                    groups[j].push_back(strs[i]);
-                    found = true;
-                    break;
-                }
+    for(int i = 0;  i<word.size();i++){
+        string s = word[i];
+        sort(s.begin() , s.end());
+        bool found = false ;
+        for(int j = 0 ; j<key.size();j++){
+            if(s==key[j]){
+                ans[j].push_back(word[i]);
+                found = true ;
+                break ;
             }
 
-            if (!found) {
-                keys.push_back(sortedWord);
 
-                vector<string> newGroup;
-                newGroup.push_back(strs[i]);
-
-                groups.push_back(newGroup);
-            }
         }
 
-        return groups;
+
+            if(!found){
+                vector<string>newgroup;
+                newgroup.push_back(word[i]);
+                key.push_back(s);
+                ans.push_back(newgroup);
+            }
+    }
+    return ans ;
     }
 };
