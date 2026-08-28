@@ -4,21 +4,30 @@ public:
         if(s.size()!=t.size()){
             return false ;
         }
-        vector<int>freq(256,0);
-
+        unordered_map<char,int>mp1 ;
+        unordered_map<char,int>mp2 ;
+    
         for(int i = 0 ; i<s.size();i++){
-            freq[s[i]]++;
-        }
-        for(int i = 0 ; i<t.size();i++){
-            freq[t[i]]--;
+            mp1[s[i]]++;
         }
 
-        for(int i = 0  ; i<freq.size();i++){
-            if(freq[i]!=0){
+        for(int i = 0 ; i<t.size();i++){
+            mp2[t[i]]++;
+        }
+
+    for(auto ele : mp1){
+        char ch = ele.first;
+        int freq = ele.second ;
+
+        if(mp2.find(ch)!=mp2.end()){
+            if(freq!=mp2[ch]){
                 return false ;
-                
             }
         }
-        return true ;
+        else{
+            return false ;
+        }
     }
+        return true ;
+}
 };
