@@ -5,29 +5,24 @@ public:
             return false ;
         }
         unordered_map<char,int>mp1 ;
-        unordered_map<char,int>mp2 ;
+     
     
         for(int i = 0 ; i<s.size();i++){
             mp1[s[i]]++;
         }
 
         for(int i = 0 ; i<t.size();i++){
-            mp2[t[i]]++;
-        }
-
-    for(auto ele : mp1){
-        char ch = ele.first;
-        int freq = ele.second ;
-
-        if(mp2.find(ch)!=mp2.end()){
-            if(freq!=mp2[ch]){
+            if(mp1.find(t[i])!=mp1.end()){
+                mp1[t[i]]--;
+                if(mp1[t[i]]==0){
+                    mp1.erase(t[i]);
+                }
+            }
+            else{
                 return false ;
             }
+
         }
-        else{
-            return false ;
-        }
-    }
-        return true ;
+return true ;
 }
 };
