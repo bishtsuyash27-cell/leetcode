@@ -135,6 +135,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0189-rotate-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1207-unique-number-of-occurrences](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3731-find-missing-elements](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3731-find-missing-elements) |
@@ -164,6 +165,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0242-valid-anagram](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0242-valid-anagram) |
+| [1207-unique-number-of-occurrences](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
