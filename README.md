@@ -109,6 +109,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0113-path-sum-ii) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0078-subsets) |
