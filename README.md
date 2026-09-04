@@ -140,6 +140,7 @@
 | [0189-rotate-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0189-rotate-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0189-rotate-array) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -171,6 +173,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0242-valid-anagram](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -260,6 +263,7 @@
 ## Counting
 |  |
 | ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Z Algorithm
 |  |
