@@ -1,32 +1,35 @@
 class Solution {
 public:
     vector<int> findEvenNumbers(vector<int>& digits) {
-        vector<int>freq(10,0);
-        for(int i = 0 ; i<digits.size();i++){
-            freq[digits[i]]++;
+        unordered_map<int,int>mp ;
+
+        for(int ele : digits){
+            mp[ele]++;
         }
         vector<int>ans ;
         for(int i = 100 ; i<=998;i+=2){
             int a = i/100 ;
-            int b = (i/10)%10 ;
+            int b = (i/10)%10;
             int c = i%10 ;
-            vector<int>need(10,0);
+            
+            if(mp.find(a)!=mp.end()){
+                mp[a]--;
 
-            need[a]++;
-            need[b]++;
-            need[c]++;
+                if(mp[a]==0) mp.erase(a);
+                
+                if(mp.find(b)!=mp.end()){
+                    mp[b]--;
 
-            bool possible = true  ;
-            for(int i = 0 ;i<10 ; i++){
-                if(need[i]>freq[i]){
-                    possible = false ;
+                    if(mp[b]==0) mp.erase(b);
+
+                    if(mp.find(c)!=mp.end()){
+                        ans.push_back(i);
+                    }
+                    mp[b]++;
                 }
-            }
-            if(possible){
-                ans.push_back(i);
+                mp[a]++;
             }
         }
-return ans ;
+        return ans ;
     }
-
 };
