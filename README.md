@@ -173,6 +173,7 @@
 | [0049-group-anagrams](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
