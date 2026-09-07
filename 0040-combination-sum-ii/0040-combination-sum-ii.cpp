@@ -14,9 +14,7 @@ void solve(vector<int> &candidates,int target,vector<int>&ans,vector<vector<int>
             if(i>index && candidates[i]==candidates[i-1]){
                 continue ;
             }
-            if(candidates[i]>target){
-                break ;
-            }
+            
            
             ans.push_back(candidates[i]);
             solve(candidates,target-candidates[i],ans,finalans,i+1);
