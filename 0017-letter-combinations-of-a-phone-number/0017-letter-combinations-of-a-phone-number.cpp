@@ -1,34 +1,26 @@
 class Solution {
 public:
-void solve(string digits,vector<string> &finalans,map<char, string>& mp,int index,string ans ){
+void solve(string digits,vector<string>&finalans,string arr[],int index,string ans){
     if(index==digits.size()){
         finalans.push_back(ans);
         return ;
     }
-     char curr = digits[index];
-     string s = mp[curr];
-    
+    int value = digits[index]-'0';
+    string s = arr[value];
     for(int i = 0 ; i<s.size();i++){
         ans.push_back(s[i]);
-        solve(digits,finalans,mp,index+1,ans);
+        solve(digits,finalans,arr,index+1,ans);
         ans.pop_back();
     }
-    
 }
     vector<string> letterCombinations(string digits) {
         vector<string>finalans ;
-        map<char, string> mp;
+        string arr[10] = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
 
-            mp['2'] = "abc";
-            mp['3'] = "def";
-            mp['4'] = "ghi";
-            mp['5'] = "jkl";
-            mp['6'] = "mno";
-            mp['7'] = "pqrs";
-            mp['8'] = "tuv";
-            mp['9'] = "wxyz";
-            
-        solve(digits,finalans,mp,0,"");
+        solve(digits,finalans,arr,0,"");
+
         return finalans ;
+
+
     }
 };
