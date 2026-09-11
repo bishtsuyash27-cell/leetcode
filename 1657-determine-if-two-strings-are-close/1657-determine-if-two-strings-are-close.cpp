@@ -4,30 +4,37 @@ public:
         if(word1.size()!=word2.size()){
             return false ;
         }
-        int n = word1.size();
-        vector<int>freq1(26,0);
-        vector<int>freq2(26,0);
+    unordered_map<char,int>mp1 ;
+    unordered_map<char,int>mp2 ;
 
-        for(int i = 0 ; i<n;i++){
-            freq1[word1[i]-'a']++;
+    unordered_map<int,int>freq1 ;
+    unordered_map<int,int>freq2 ;
+
+    for(int i = 0 ; i<word1.size();i++){
+        mp1[word1[i]]++;
+        mp2[word2[i]]++; 
+    }
+    for(auto x : mp1){
+        if(mp2.find(x.first)==mp2.end()){
+            return false ;
         }
+    }
 
-        for(int i = 0 ; i<n; i++){
-            freq2[word2[i]-'a']++;
+    for(auto x : mp2){
+        if(mp1.find(x.first)==mp1.end()){
+            return false ;
         }
+    }
 
-        for(int i = 0 ;i<26; i++){
-            if(freq1[i]== 0 && freq2[i]!=0){
-                return false ;
-            }
-            if(freq2[i]==0 && freq1[i]!=0){
-                return false ;
-            }
-          
-        }
-sort(freq1.begin(),freq1.end());
-sort(freq2.begin(),freq2.end());
+    for(auto x :mp1){
+        freq1[x.second]++;
+    }
 
-return freq1==freq2;
+    for(auto x : mp2){
+        freq2[x.second]++;
+    }
+
+    return freq1==freq2;
+
     }
 };
