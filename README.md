@@ -108,6 +108,7 @@
 | [0520-detect-capital](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0796-rotate-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2129-capitalize-the-title](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2129-capitalize-the-title) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -191,6 +192,7 @@
 | [0242-valid-anagram](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -204,6 +206,7 @@
 | [0047-permutations-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0242-valid-anagram) |
+| [1657-determine-if-two-strings-are-close](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -283,6 +286,7 @@
 ## Counting
 |  |
 | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Z Algorithm
