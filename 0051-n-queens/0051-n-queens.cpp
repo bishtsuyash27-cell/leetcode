@@ -35,6 +35,7 @@ void solve(int n , int row,vector<vector<string>>&ans,vector<vector<char>>&grid)
             temp.push_back(s);
         }
         ans.push_back(temp);
+        return ;
     }
 
     for(int col = 0 ; col<n;col++){
