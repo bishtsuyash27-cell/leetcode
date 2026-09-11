@@ -7,9 +7,8 @@ public:
     unordered_map<char,int>mp1 ;
     unordered_map<char,int>mp2 ;
 
-    unordered_map<int,int>freq1 ;
-    unordered_map<int,int>freq2 ;
-
+  vector<int>freq1;
+  vector<int>freq2;
     for(int i = 0 ; i<word1.size();i++){
         mp1[word1[i]]++;
         mp2[word2[i]]++; 
@@ -26,15 +25,18 @@ public:
         }
     }
 
-    for(auto x :mp1){
-        freq1[x.second]++;
+for(auto x : mp1){
+    freq1.push_back(x.second);
     }
 
-    for(auto x : mp2){
-        freq2[x.second]++;
+    for(auto  x :  mp2){
+        freq2.push_back(x.second);
     }
 
-    return freq1==freq2;
+    sort(freq1.begin(),freq1.end());
+    sort(freq2.begin(),freq2.end());
 
+    return freq1==freq2 ;
     }
+
 };
