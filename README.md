@@ -119,6 +119,7 @@
 | [0040-combination-sum-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0113-path-sum-ii) |
@@ -142,6 +143,7 @@
 | [0046-permutations](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0090-subsets-ii) |
@@ -312,4 +314,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
