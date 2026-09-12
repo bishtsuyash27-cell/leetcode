@@ -9,13 +9,12 @@ public:
             }
             remainder[rem]++;
         }
-        for(int i = 0 ; i<remainder.size();i++){
-            int required = (k - i)%k ;
-            if(required==i){
-                if(remainder[required]%2!=0){
+        if(remainder[0]%2!=0){
                     return false ;
                 }
-            }
+        for(int i = 0 ; i<remainder.size();i++){
+            int required = (k - i)%k ;
+            
             if(remainder[i]!=remainder[required]){
                 return false ;
             }
