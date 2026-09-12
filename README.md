@@ -156,6 +156,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -192,6 +193,7 @@
 | [0242-valid-anagram](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -286,6 +288,7 @@
 ## Counting
 |  |
 | ------- |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
