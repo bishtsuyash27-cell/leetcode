@@ -1,29 +1,29 @@
 class Solution {
 public:
     bool canArrange(vector<int>& arr, int k) {
-        vector<int>remainder(k,0);
-
+        unordered_map<int,int>mp ;
         for(int i = 0 ;i<arr.size();i++){
-            int rem = arr[i]%k ;
-            if(rem<0){
-                rem = rem + k ;
-            }
-            remainder[rem]++;
+            int rem = arr[i]%k;
+        if(rem<0){
+            rem+=k ;
         }
-    for(int i = 0 ; i<remainder.size();i++){
-        int required = (k-i)% k ;
-        if(i==required){
-            if(remainder[required]%2!=0){
+            mp[rem]++;
+        }
+
+        for(auto x : mp){
+            int rem = x.first ;
+            int required = (k-rem)%k ;
+
+            if(rem==required){
+                if(mp[rem]%2!=0){
+                    return false ;
+                }
+            }
+            if(mp[rem]!=mp[required]){
                 return false ;
             }
-        }
-        else{
-        if(remainder[i]!=remainder[required]){
-            return false ;
-        }
-        }
-    }
 
-        return true ;
+        }
+return true ;
     }
 };
