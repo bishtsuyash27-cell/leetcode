@@ -52,6 +52,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2596-check-knight-tour-configuration](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2596-check-knight-tour-configuration](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2596-check-knight-tour-configuration](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3731-find-missing-elements](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -289,6 +292,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0063-unique-paths-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Counting
 |  |
 | ------- |
@@ -311,6 +315,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Bit Manipulation
 |  |
