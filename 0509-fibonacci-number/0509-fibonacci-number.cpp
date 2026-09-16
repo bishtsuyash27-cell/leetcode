@@ -7,7 +7,8 @@ int f(vector<int>&dp , int n ){
     if(dp[n]!=-1){
         return dp[n];
     }
-    return dp[n] = f(dp,n-1) + f(dp,n-2);
+    dp[n] = f(dp,n-1) + f(dp,n-2);
+    return dp[n];
 }
     int fib(int n) {
         vector<int>dp(n+1,-1);
