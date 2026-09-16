@@ -171,6 +171,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0509-fibonacci-number) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -277,6 +278,7 @@
 | [0005-longest-palindromic-substring](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
@@ -345,5 +347,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
