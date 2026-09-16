@@ -158,6 +158,7 @@
 | [0189-rotate-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -281,6 +282,7 @@
 | [0063-unique-paths-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Manacher
 |  |
