@@ -4,9 +4,8 @@ int solve(vector<int>&cost , int i,vector<int>&dp ){
     if(i>=cost.size()){
         return 0 ;
     }
-    if(dp[i]!=-1){
-        return dp[i];
-    }
+    if(dp[i]!=-1)  return dp[i];
+    
     return dp[i] = cost[i] + min(solve(cost,i+1,dp),solve(cost,i+2,dp));
 }
     int minCostClimbingStairs(vector<int>& cost) {
