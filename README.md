@@ -169,6 +169,7 @@
 | [2596-check-knight-tour-configuration](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3731-find-missing-elements](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3731-find-missing-elements) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Math
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3731-find-missing-elements) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Binary Lifting
 |  |
 | ------- |
