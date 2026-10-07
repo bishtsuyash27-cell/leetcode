@@ -159,6 +159,7 @@
 | [0189-rotate-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -178,6 +179,7 @@
 | [0062-unique-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -205,6 +207,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -222,6 +225,7 @@
 | [0047-permutations-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0268-missing-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bishtsuyash27-cell/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/bishtsuyash27-cell/leetcode/tree/master/3731-find-missing-elements) |
@@ -239,6 +243,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0669-trim-a-binary-search-tree) |
@@ -340,6 +345,7 @@
 | ------- |
 | [0078-subsets](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0338-counting-bits) |
 ## Enumeration
 |  |
