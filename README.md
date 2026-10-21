@@ -157,6 +157,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0152-maximum-product-subarray](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0216-combination-sum-iii) |
@@ -295,6 +296,7 @@
 | [0062-unique-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0338-counting-bits) |
