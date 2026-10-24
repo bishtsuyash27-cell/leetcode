@@ -133,6 +133,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -146,6 +147,7 @@
 | [0037-sudoku-solver](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0049-group-anagrams) |
@@ -192,6 +194,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0189-rotate-array) |
@@ -266,6 +269,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
@@ -292,6 +296,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0063-unique-paths-ii) |
