@@ -4,8 +4,8 @@ public:
         int n = chars.size();
         int write = 0 ;
 
-
-        for(int i = 0 ;i<n;i++){
+        int i = 0 ;
+        while(i<n){
             int count = 0 ;
             char ele = chars[i];
 
@@ -13,8 +13,7 @@ public:
                 i++;
                 count++;
             }
-            i--;
-
+            
             chars[write] = ele ;
             write++;
             
