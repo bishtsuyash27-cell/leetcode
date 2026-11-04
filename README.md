@@ -104,6 +104,7 @@
 | [0049-group-anagrams](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0344-reverse-string) |
@@ -213,6 +214,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0205-isomorphic-strings](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0560-subarray-sum-equals-k) |
