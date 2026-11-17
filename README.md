@@ -98,6 +98,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -183,6 +184,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0189-rotate-array) |
@@ -210,6 +212,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/bishtsuyash27-cell/leetcode/tree/master/0049-group-anagrams) |
